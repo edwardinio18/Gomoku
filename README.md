@@ -24,7 +24,6 @@ This project aims to implement a Gomoku game with the following features:
    ```bash
    pip install -r requirements.txt
 
-
 ## Contributing
 Contributions are welcome and greatly appreciated. If you have suggestions for improving this application, please fork the repo and create a pull request or open an issue.
 
